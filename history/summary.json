@@ -22,7 +22,7 @@
     "url": "https://www.instapintr.com/",
     "icon": "https://favicons.githubusercontent.com/www.instapintr.com",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 4410,
     "timeMonth": 3329,
     "timeYear": 3329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-08": 0
+    }
   }
 ]
